@@ -1,0 +1,29 @@
+body{
+    font-size: small;
+    font-family: 'Arial';
+    border-radius: 8px;
+    margin: 0%;
+    padding: 0%;
+}
+h6{
+    color: red;
+    text-align: center;
+    border-radius: 8px;
+}
+h4{
+    font-family: italic;
+}
+.container{
+    text-align: center;
+    background-color: rgb(229, 220, 245);
+    border-radius: 30px;
+    width: 1400px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
